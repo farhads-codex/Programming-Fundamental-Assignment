@@ -3,10 +3,10 @@ Question # 1:
 Answer: End of Program
 
 (Part b)
-Answer: Syntax error, bracets of if statement.
+Answer: error: 'else' without a previous 'if'
 
 (Part c)
 Answer: 1222
 
 (Part d)
-Answer: a+b=res;  Invalid Assignment.
+Answer: a+b=res;  (Invalid Assignment).
